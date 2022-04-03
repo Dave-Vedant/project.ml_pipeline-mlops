@@ -1,0 +1,3 @@
+#dvc ignore file such as data folder...
+
+data/*
